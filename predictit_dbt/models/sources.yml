@@ -1,0 +1,8 @@
+version: 2 
+
+sources:
+  - name: PREDICTIT
+    schema: RAW
+    tables:
+      - name: markets 
+        identifier: RAW_MARKET
